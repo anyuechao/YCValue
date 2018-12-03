@@ -1,0 +1,8 @@
+YCValue.xcodeproj/xcuserdata/
+YCValue.xcworkspace/
+Pods/
+*.sup
+Podfile.lock
+.DS_Store
+YCValue.xcodeproj/project.xcworkspace/xcuserdata/
+
