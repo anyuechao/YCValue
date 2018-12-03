@@ -7,7 +7,7 @@
 //
 
 #import "YCColorExec.h"
-#import "UIColor+Category.h"
+#import <UIColor+YCCategory.h>
 
 inline UIColor* YCRandomColor() {
     return YCRGBColor((arc4random_uniform(255)), (arc4random_uniform(255)), (arc4random_uniform(255)));
