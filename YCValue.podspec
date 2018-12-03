@@ -7,7 +7,7 @@ s.version = "1.0.0"
 #s.platform = :ios, "8.0"
 s.source = { :git => "https://github.com/anyuechao/YCValue.git", :tag => s.version }
 
-s.dependency 'YCCategory', :git => 'https://github.com/anyuechao/YCCategory.git'
+s.dependency 'YCCategory'
 
 s.requires_arc     = true
 s.ios.deployment_target = '8.0'
